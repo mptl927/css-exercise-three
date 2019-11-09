@@ -16,11 +16,9 @@ body {
 }
 .block {
   display: inline-block;
-  width: 100%;
 }
 .arrow {
   display: inline-block;
-  width: 50%;
 }
 
 .container {
