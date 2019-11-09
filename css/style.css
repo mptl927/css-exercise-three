@@ -25,17 +25,18 @@ body {
 }
 .arrow {
   float: right;
-  width:5%;
+  width:3%;
+  margin: 10px;
 }
 
 .container {
   margin: 5px auto;
-  width: 420px;
+  width: 500px;
 }
 nav {
   margin: 5px auto;
   position: absolute;
-  width: 420px;
+  width: 500px;
 }
 
 .restaurant-list {
@@ -54,7 +55,7 @@ h3 {
 .box1 {
   background-color:lightgrey;
   border: 1px solid:black;
-  width: 420px;
+  width: 500px;
 }
 hr {
   background-color:black;
