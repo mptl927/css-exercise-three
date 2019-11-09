@@ -15,33 +15,33 @@ body {
   background-color: lightgrey;
 }
 .block {
-  display: block;
-  padding: 10px;
-}
-.inline-block {
   display: inline-block;
 }
+.arrow {
+  display: inline-block;
+}
+
 .container {
   margin: 0 auto;
   width: 420px;
 }
 nav {
   margin: 0 auto;
-  padding: 0 auto;
+  padding: 10px 0 15px 15px;
   position: fixed;
   width: 420px;
 }
 
 .restaurant-list {
-  padding-top: 0px;
+  padding-top: 50px;
 }
 h1 {
-  font-size: 16px;
-  font-style: bold;
+  font-size: 225%;
+  font-weight: bold;
 }
 h3 {
-  font-size: 12px;
-  font-style: normal;
+  font-size: 150%;
+  font-weight: normal;
 }
 .box1 {
   background-color:lightgrey;
